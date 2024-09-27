@@ -3,6 +3,7 @@
 This Music Player is a sleek, modern web-based application designed to play and manage audio tracks with ease. Built using HTML, CSS, and JavaScript, it offers a visually appealing and interactive user interface that enhances the overall music experience.
 
 ## Preview
+![preview](https://github.com/user-attachments/assets/245aa2cd-d525-4393-9f51-177be25aa29a)
 
 ## Technologies Used
 
